@@ -1,0 +1,8 @@
+path: D:/project semester 5/TUGAS AKHIR/WASTIFY_PCV/dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: logam
+  1: paper
+  2: plastic

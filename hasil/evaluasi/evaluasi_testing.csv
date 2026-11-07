@@ -1,0 +1,5 @@
+metrik,nilai
+Precision,0.9009
+Recall,0.8637
+mAP50,0.9232
+mAP50-95,0.6138
